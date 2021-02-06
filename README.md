@@ -89,9 +89,9 @@ I'm **Fikri Dzakir**, a **Web Developer** and a **Software Engineering Student**
 
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=fikridzkr&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=fikridzkr&show_icons=true&count_private=true&hide_border=true" style="width: 100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikridzkr&hide_border=true&layout=compact" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikridzkr&theme=vue" style="width: 100%" />
 
 <br/>  
 
