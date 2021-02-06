@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**fikridzkr/fikridzkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 ## Hey 👋, I'm Fikri Dzakir  
   
@@ -37,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/dzkirr" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/fikridzakir" target="_blank">
+<a href="https://www.youtube.com/channel/UCY7G0BrtUPwTpFhblPWo3-A" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
   
@@ -52,7 +35,7 @@ I'm **Fikri Dzakir**, a **Web Developer** and a **Software Engineering Student**
 <br/>  
 
  
-<table><tr><td valign="top" width="50%">
+<table><tr><td width="50%">
 
 - 🔭 I currently work as a freelance  
   
@@ -66,7 +49,7 @@ I'm **Fikri Dzakir**, a **Web Developer** and a **Software Engineering Student**
 - 📫 You can reach me at fikridzakir179@gmail.com  
 
 
-</td><td valign="top" width="50%">
+</td><td width="50%">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -105,14 +88,14 @@ I'm **Fikri Dzakir**, a **Web Developer** and a **Software Engineering Student**
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="100%">
+<table><tr><td  width="100%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=fikridzkr&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="100%">
+<td width="100%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikridzkr&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
