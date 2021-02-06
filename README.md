@@ -40,7 +40,7 @@ I'm **Fikri Dzakir**, a **Web Developer** and a **Software Engineering Student**
 
 - 📫 You can reach me at fikridzakir179@gmail.com  
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 10%" />
 
 
 <br/>  
