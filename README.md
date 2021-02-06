@@ -34,8 +34,6 @@ I'm **Fikri Dzakir**, a **Web Developer** and a **Software Engineering Student**
 
 <br/>  
 
- 
-<table><tr><td width="50%">
 
 - 🔭 I currently work as a freelance  
   
@@ -49,14 +47,8 @@ I'm **Fikri Dzakir**, a **Web Developer** and a **Software Engineering Student**
 - 📫 You can reach me at fikridzakir179@gmail.com  
 
 
-</td><td width="50%">
-
-<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
-
-</td></tr></table>  
 
 <br/>  
 
