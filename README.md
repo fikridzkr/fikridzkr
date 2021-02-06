@@ -30,24 +30,17 @@
 ### Glad to see you here!  
 I'm **Fikri Dzakir**, a **Web Developer** and a **Software Engineering Student** 🚀 from Indonesia, I am a full-stack Web developer but mostly work in Front-end Developer. My interest is in technology, programming and web development
   
-  
-
 <br/>  
-
 
 - 🔭 I currently work as a freelance  
   
-
 - 🌱 I’m currently learning MERN Stack and Web design   
-  
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
 
 - 📫 You can reach me at fikridzakir179@gmail.com  
 
-
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
 
 
 <br/>  
