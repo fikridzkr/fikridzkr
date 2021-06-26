@@ -5,34 +5,16 @@
 <a href="https://github.com/fikridzkr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/fikridzkr" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/fikridzkr" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/fikridzkr" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/fikri-dzakir-555575211/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/dzkirr" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UCY7G0BrtUPwTpFhblPWo3-A" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
-### Glad to see you here!  
-I'm **Fikri Dzakir**, a **Web Developer** and a **Software Engineering Student** 🚀 from Indonesia, I am a full-stack Web developer but mostly work in Front-end Developer. My interest is in technology, programming and web development
   
 <br/>  
 
-- 🔭 I currently as a job seeker
+- 🔭 I currently as a Front End Developer
   
 - 🌱 I’m currently learning MERN Stack and Web design   
 
@@ -81,12 +63,4 @@ I'm **Fikri Dzakir**, a **Web Developer** and a **Software Engineering Student**
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=fikridzkr&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
