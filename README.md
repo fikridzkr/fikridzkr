@@ -51,8 +51,8 @@
 
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=fikridzkr&show_icons=true&count_private=true&hide_border=true" style="width: 100%" />
-
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=fikridzkr&show_icons=true&count_private=true&hide_border=true" style="width: 100%" /> -->
+(https://github-readme-stats.vercel.app/api?username=fikridzkr&count_private=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikridzkr&theme=vue" style="width: 100%" />
 
 <br/>  
