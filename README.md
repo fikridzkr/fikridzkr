@@ -52,10 +52,10 @@
 ## Github Stats  
 
 <div style="display:flex;justify-content:around;">
-![Fikridzkr GitHub stats](https://github-readme-stats.vercel.app/api?username=fikridzkr&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=fikridzkr&show_icons=true&count_private=true&hide_border=true"  />
+<!-- ![Fikridzkr GitHub stats](https://github-readme-stats.vercel.app/api?username=fikridzkr&count_private=true) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikridzkr&theme=vue"  />
   </div>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=fikridzkr&show_icons=true&count_private=true&hide_border=true" style="width: 100%" /> -->
 
 
 <br/>  
