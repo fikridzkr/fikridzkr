@@ -5,22 +5,22 @@
 <a href="https://github.com/fikridzkr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/fikri-dzakir-555575211/" target="_blank">
+<a href="https://www.linkedin.com/in/fikri-dzakir/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/dzkirr" target="_blank">
+<a href="https://instagram.com/fikridzakirrr" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
   
 <br/>  
 
-- 🔭 I currently as a Front End Developer
+- 🔭 I currently as a Full Stack Developer
   
-- 🌱 I’m currently learning MERN Stack and Web design   
+- 🌱 I’m currently learning a blockchain, mobile and related tech.  
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to mobile, web, blockhain. 
 
-- 📫 You can reach me at fikridzakir179@gmail.com  
+- 📫 You can reach me at fikridzkr@gmail.com  
 
 
 
